@@ -1,0 +1,30 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Cache
+.cache/
+*.cache
+
+# Node modules (if any build tools used)
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Composer (if used)
+vendor/
+
+# Environment files
+.env
+
+# Backup files
+*.bak
+*.zip
+
+# WordPress debug logs
+debug.log
